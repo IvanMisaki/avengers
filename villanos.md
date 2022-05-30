@@ -3,3 +3,4 @@
 * Freezer
 * Cell
 * androides
+* digimon malo
