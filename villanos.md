@@ -4,3 +4,4 @@
 * Cell
 * androides
 * digimon malo
+* chuky
