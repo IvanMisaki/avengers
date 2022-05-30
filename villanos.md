@@ -3,3 +3,4 @@
 * Freezer
 * Cell
 * goku malo
+* vegeta malo
