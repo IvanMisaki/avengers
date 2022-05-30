@@ -2,3 +2,4 @@
 
 * Freezer
 * Cell
+* goku malo
