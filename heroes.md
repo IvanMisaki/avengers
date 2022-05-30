@@ -2,3 +2,4 @@
 
 * Goku
 * Ash
+* Vegeta
